@@ -1,0 +1,69 @@
+{
+  "student": {
+    "name": "Alex Kumar",
+    "degree": "B.E. Computer Science and Engineering",
+    "year": 2,
+    "graduation_year": 2029
+  },
+  "academics": {
+    "cgpa": 8.7,
+    "semester_1": 8.4,
+    "semester_2": 8.8,
+    "semester_3": 8.9,
+    "attendance": 87
+  },
+  "skills": {
+    "Python": 7,
+    "Java": 6,
+    "C++": 5,
+    "JavaScript": 7,
+    "React": 5,
+    "SQL": 6,
+    "DSA": 5,
+    "Git": 7,
+    "Docker": 4,
+    "AI": 6,
+    "RAG": 5
+  },
+  "dsa": {
+    "problems_solved": 146,
+    "easy": 82,
+    "medium": 55,
+    "hard": 9,
+    "topics": {
+      "Arrays": 32,
+      "Strings": 21,
+      "Linked Lists": 14,
+      "Stacks and Queues": 11,
+      "Trees": 8,
+      "Graphs": 5,
+      "Dynamic Programming": 3,
+      "Binary Search": 7
+    }
+  },
+  "projects": [
+    {
+      "name": "Revenue Recovery Intelligence",
+      "type": "FinTech",
+      "description": "AI-powered revenue recovery and payment failure analysis platform",
+      "technologies": [
+        "Next.js",
+        "FastAPI",
+        "PostgreSQL",
+        "AI Agents"
+      ]
+    },
+    {
+      "name": "Skill-to-Employment Platform",
+      "type": "AI",
+      "description": "Platform for skill-gap analysis and employment outcome intelligence",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "RAG",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "certifications": 4
+}

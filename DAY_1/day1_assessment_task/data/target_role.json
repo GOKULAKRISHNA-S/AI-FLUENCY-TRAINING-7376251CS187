@@ -1,0 +1,26 @@
+{
+  "role": "Software Engineer Intern",
+  "required_skills": {
+    "Python": 8,
+    "Java": 6,
+    "SQL": 7,
+    "DSA": 8,
+    "Git": 7,
+    "React": 6,
+    "Docker": 5
+  },
+  "preferred_skills": {
+    "System Design": 4,
+    "Cloud": 5,
+    "AI": 5
+  },
+  "dsa_expectation": {
+    "total_problems": 250,
+    "medium_problems": 100,
+    "hard_problems": 20
+  },
+  "project_expectation": {
+    "minimum_projects": 2,
+    "preferred_projects": 3
+  }
+}
