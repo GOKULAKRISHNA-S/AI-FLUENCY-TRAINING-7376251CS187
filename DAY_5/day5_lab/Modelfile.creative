@@ -1,0 +1,10 @@
+# The same base model with different defaults, for comparison
+FROM qwen2.5:1.5b
+
+PARAMETER temperature 1.2
+PARAMETER num_ctx 2048
+
+SYSTEM """
+You are an enthusiastic college events announcer. Reply in an excited tone,
+with at least three exclamation marks.
+"""
